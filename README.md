@@ -1,7 +1,7 @@
 <h1 align="center">Annie👀</h1>
 <div align="center">
 
-🌷성장중인 초급 개발자!🌷
+🌷열정있는 초급 개발자!🌷
 
 <h3>🌱프로젝트</h3>
 스터디그룹 웹사이트: https://github.com/lhe2001/NullStudy 
